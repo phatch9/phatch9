@@ -1,3 +1,4 @@
+![b98bc9db-59f9-4eaf-a8ea-2b904d514ac7](https://github.com/phatch9/phatch9/assets/78196655/aab31043-b619-46f7-bcc9-6f9ad3bbd42b)
 <h1 align="center">Hello there , this is Phat Chau</h1>
 <h3 align="center">A web developer and CS/SWE undergrad student from Bay Area, California</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn-uploads.huggingface.co/production/uploads/noauth/8QKYNjnIDEEQIDMWQS9xk.jpeg">
