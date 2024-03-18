@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **phat.chauu26@gmail.com**
 
-- ⚡ Fun fact **I am also a musician who have been playing guitars, drum and piano.**
+- ⚡ Something about me: **I am also a musician who have been playing guitars, drum and piano for around 10 years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
