@@ -1,7 +1,7 @@
 ![b98bc9db-59f9-4eaf-a8ea-2b904d514ac7](https://github.com/phatch9/phatch9/assets/78196655/aab31043-b619-46f7-bcc9-6f9ad3bbd42b)
 <h1 align="center">Hello there , this is Phat Chau</h1>
 <h3 align="center">A web developer and CS/SWE undergrad student from Bay Area, California</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/46/dc/f9/46dcf999a8bcb059c56ddf4156bf2cc9.gif">
+<img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/kaoysE90SZM/maxresdefault.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phatch9&label=Profile%20views&color=0e75b6&style=flat" alt="phatch9" /> </p>
