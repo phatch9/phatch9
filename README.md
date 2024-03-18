@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phatch9&label=Profile%20views&color=0e75b6&style=flat" alt="phatch9" /> </p>
 
-- 🌱 I’m currently learning **Swift and Python**
+- 🌱 I’m currently learning **Swift and MySQL database**
 
 - 📫 How to reach me **phat.chauu26@gmail.com**
 
