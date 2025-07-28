@@ -1,6 +1,6 @@
 ![b98bc9db-59f9-4eaf-a8ea-2b904d514ac7](https://github.com/phatch9/phatch9/assets/78196655/aab31043-b619-46f7-bcc9-6f9ad3bbd42b)
 <h1 align="center">Hello there , Phat Chau is here 👋 </h1>
-<h3 align="center">A web developer and CS/SWE undergrad student from Bay Area, California</h3>
+<h3 align="center">I am bringing my energy into Software Engineering as a CS/SWE undergrad student from the Bay</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/kaoysE90SZM/maxresdefault.jpg">
 
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Swift and MySQL database**
 
-- 📫 How to reach me **phat.chauu26@gmail.com**
+- 📫 Reach out to me **phat.chauu26@gmail.com**
 
-- ⚡ Something about me: **I am also a musician who has been playing guitars, drums, and piano.**
+- ⚡ Something about me: **I am also a musician who has been playing guitars, drums, and piano. I am planning to learn free-diving soon **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
