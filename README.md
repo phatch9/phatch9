@@ -1,12 +1,12 @@
 ![b98bc9db-59f9-4eaf-a8ea-2b904d514ac7](https://github.com/phatch9/phatch9/assets/78196655/aab31043-b619-46f7-bcc9-6f9ad3bbd42b)
 <h1 align="center">Hello there , Phat Chau is here 👋 </h1>
-<h3 align="center">I am bringing my energy into Software Engineering as a CS/SWE undergrad student from the Bay</h3>
+<h3 align="center">I am bringing my energy into Software Engineering as a NewGrad Software Engineer from the Bay</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/kaoysE90SZM/maxresdefault.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phatch9&label=Profile%20views&color=0e75b6&style=flat" alt="phatch9" /> </p>
 
-- 🌱 I’m currently learning **Swift and MySQL database**
+- 🌱 I’m currently learning **Golang and extending to CI/CD with Kubernetes**
 
 - 📫 Reach out to me **phat.chauu26@gmail.com**
 
@@ -29,8 +29,7 @@
 
 
 <h3 align="left">Development Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
