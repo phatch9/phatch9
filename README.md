@@ -1,6 +1,6 @@
 ![b98bc9db-59f9-4eaf-a8ea-2b904d514ac7](https://github.com/phatch9/phatch9/assets/78196655/aab31043-b619-46f7-bcc9-6f9ad3bbd42b)
 <h1 align="center">Hello there , Phat Chau is here 👋 </h1>
-<h3 align="center">I am bringing my energy into Software Engineering as a NewGrad Software Engineer from the Bay</h3>
+<h3 align="center">I am bringing my energy into Computer Science as a NewGrad Software Engineer from the Bay</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/kaoysE90SZM/maxresdefault.jpg">
 
 
