@@ -52,5 +52,12 @@
 </p>
 
 
- [![Phat Chau's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatch9)](https://github.com/phatch9/github-readme-stats)
+<div align="center">
+<a href="https://github.com/phatch9/github-readme-stats">
+  <img src="https://github-readme-stats-oh-rats.vercel.app/api?username=phatch9&rank_icon=github&theme=tokyonight&hide=stars&show_icons=true&custom_title=GitHub%20Stats" />
+</a>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats-oh-rats.vercel.app/api/top-langs/?username=phatch9&layout=compact&theme=tokyonight&card_width=467&hide=DIGITAL%20Command%20Language&exclude_repo=test_sis,test_nums" />
+</div>
