@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" />
   <img src="https://img.shields.io/badge/Jinja-white.svg?style=plastic&logo=jinja&logoColor=black" />
